@@ -8,7 +8,7 @@ https://www.ciklum.com
 
 `` [**Войтенко** Андрій](/players/voitenko.andrii.19940326.jpg) `/1994-03-26/`
 
-`` [**Вонсаровський** Сергій](/players/vonsarovskii.sergii.19870227.jpg) `/1983-10-01/`
+`` [**Вонсаровський** Сергій](/players/vonsarovskii.sergii.19871001.jpg) `/1983-10-01/`
 
 `` [**Габісов** Олександр](/players/gabisov.oleksandr.19920405.jpg) `/1992-04-05/`
 
