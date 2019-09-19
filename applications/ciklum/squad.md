@@ -6,7 +6,7 @@ https://www.ciklum.com
 
 `64` [**Бріль** Сергій](/players/bril.sergii.19870227.jpg) `/1987-02-27/`
 
-`23` [**Войтенко** Андрій](/players/voitenko.andrii.19940326.jpg) `/1994-03-26/`
+`11` [**Войтенко** Андрій](/players/voitenko.andrii.19940326.jpg) `/1994-03-26/`
 
 `84` [**Вонсаровський** Сергій](/players/vonsarovskii.sergii.19871001.jpg) `/1983-10-01/`
 
