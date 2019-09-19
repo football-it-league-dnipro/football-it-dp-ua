@@ -6,7 +6,7 @@ https://www.softserveinc.com
 [**Ивлиев** Андрей](/players/Ivliev.Andrej.19910227.jpg) `/1991-02-27/` DevLineSoft
 [**Карпенко** Денис](/players/Karpenko.Denis.19960610.jpg) `/1996-06-10/`
 [**Колесник** Николай](/players/Kolesnik.Nikolaj.19920615.jpg) `/1992-06-15/`
-[**Лозовской** Артур](/players/Lozovskoj.Artur.19981030.jpg) `/1998-10-30/`
+[**Лозовский** Артур](/players/Lozovskij.Artur.19981030.jpg) `/1998-10-30/`
 [**Лысенко** Николай](/players/Lysenko.Nikolaj.19930824.jpg) `/1993-08-24/`
 [**Михайлов** Степан](/players/Mihajlov.Stepan.19891102.png) `/1989-11-02/` Runple
 [**Новоселов** Сергей](/players/Novoselov.Sergej.19851102.jpg) `/1985-11-02/`
