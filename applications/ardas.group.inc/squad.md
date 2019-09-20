@@ -1,6 +1,8 @@
 # Ardas Group Inc.
 
 https://ardas-it.com/
+https://www.facebook.com/ardasgroupinc
+https://jobs.dou.ua/companies/ardas-group/
 
 `12` [**Болонський** Олексій](/players/bolonskiy.oleksiy.19860522.jpg)	`/1986-05-22/`
 
