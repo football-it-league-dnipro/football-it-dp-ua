@@ -8,7 +8,7 @@ https://agilie.com
 
 `25` [**Горб** Павло](/players/horb.pavlo.19940727.jpg) `/1994-07-27/`
 
-`29` [**Гоцко** Станіслав](/players/gotsko.stanislav.19930528.jpg) `/1993-05-28/` WizardDev
+`29` [**Гоцко** Станіслав](/players/gotsko.stanislav.19930528.jpg) `/1993-05-28/` WizardsDev
 
 `4` [**Кліменко** Олександр](/players/klymenko.oleksandr.19940223.jpg) `/1994-02-23/`
 
