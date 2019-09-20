@@ -7,3 +7,11 @@ This is a regular competition which gathers IT companies of the city of Dnipro i
 Турнір заснований у 2014 році.
 
 Est. 2014
+
+#
+
+## Корисна інформація
+
+[Діючий Регламент змагань](./documents-and-regulations/competition-regulations.md)
+
+[Як зареєструвати команду](./applications/guide.md)
