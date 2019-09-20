@@ -2,6 +2,8 @@
 
 https://www.ciklum.com
 
+https://jobs.dou.ua/companies/ciklum/
+
 `8` [**Бондарев** Павло](/players/bondarev.pavlo.19870507.jpg) `/1987-05-07/`
 
 `64` [**Бріль** Сергій](/players/bril.sergii.19870227.jpg) `/1987-02-27/`
@@ -20,7 +22,7 @@ https://www.ciklum.com
 
 `5` [**Кузякін** Олексій](/players/kuzyakin.oleksii.19900714.jpg) `/1990-07-14/`
 
-`99` [**Матвєєв** Олександр](/players/matveev.oleksandr.19901206.jpg) `/1990-12-06/` PnwSoft
+`99` [**Матвєєв** Олександр](/players/matveev.oleksandr.19901206.jpg) `/1990-12-06/` Pacific Northwest Software
 
 `4` [**Наріжний** Дмитро](/players/narizhnyi.dmytro.19940703.jpg) `/1994-07-03/`
 
@@ -30,4 +32,4 @@ https://www.ciklum.com
 
 `22` [**Сірий** Віталій](/players/siryi.vitalii.19960119.jpg) `/1996-01-19/`
 
-`88` [**Шинкаренко** Денис](/players/shynkarenko.denys.19840902.jpg) `/1984-09-02/` Erbis
+`88` [**Шинкаренко** Денис](/players/shynkarenko.denys.19840902.jpg) `/1984-09-02/` Erbis Cloud Services
