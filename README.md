@@ -14,6 +14,8 @@ This is a regular competition which gathers IT companies of the city of Dnipro i
 
 [Положення про Золотий Матч](./documents-and-regulations/golden-match-conditions.md)
 
+[Додаток #1](./documents-and-regulations/legionary-expenses-attachment.md)
+
 ### Корисна інформація
 
 [Як зареєструвати команду](./applications/guide.md)
