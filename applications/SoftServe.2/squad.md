@@ -2,9 +2,11 @@
 
 https://www.softserveinc.com
 
+https://jobs.dou.ua/companies/softserve/
+
 [**Галяс** Юрiй](/players/halias.iurii.19890802.jpg) `/1989-08-02/` Wix
 
-[**Єрмаков** Іван](/players/yermakov.ivan.19961205.jpg) `/1996-12-05/`
+[**Єрмаков** Іван](/players/yermakov.ivan.19861205.jpg) `/1986-12-05/`
 
 [**Злобін** Олексій](/players/zlobin.oleksii.19910506.jpg) `/1991-05-06/`
 
