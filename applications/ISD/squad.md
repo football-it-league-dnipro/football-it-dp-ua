@@ -12,7 +12,7 @@ http://isd.dp.ua
 
 `11` [**Заваринський** Олександр](/players/zavarynskyi.oleksanr.19830629.jpg) `/1983-06-29/` 
 
-`8` [**Золотаренко** Михайло](/players/zolotarenko.mykhailo.19880229.png) `/1988-02-29/` SoftServe
+`8` [**Золотаренко** Михайло](/players/zolotarenko.mykhailo.19880229.jpg) `/1988-02-29/` SoftServe
 
 `14` [**Карповський** Дмитро](/players/karpovskyi.dmytro.19951003.jpg) `/1995-10-03/` 
 
