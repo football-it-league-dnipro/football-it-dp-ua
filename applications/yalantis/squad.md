@@ -8,7 +8,7 @@ https://yalantis.com/
 
 `2` [**Козирев** Станiслав](/players/kozyrev.stanislav.19090808.jpg) `/1990-08-08/`
 
-`29` [**Крижановський** Антон](/players/kryzhanovkyi.anton.19872002.jpg) `/1987-02-20/` Valtech
+`29` [**Крижановський** Антон](/players/kryzhanovkyi.anton.19870220.jpg) `/1987-02-20/` Valtech
 
 `6` [**Линник** Владислав](/players/lynnik.vladislav.19931202.jpg) `/1993-12-02/`
 
