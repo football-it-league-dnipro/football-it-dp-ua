@@ -16,7 +16,7 @@ https://www.reactor.com.ua/
 
 `8` [**Степаненко** Андрій](/players/stepanenko.andrii.19840621.jpg) `/1984-06-21/`
 
-`9` **Стасюк** Сергій `/1994-07-19/`
+`9` [**Стасюк** Сергій](/players/stasiuk.serhii.19940719.jpg) `/1994-07-19/`
 
 `11` [**Тащі** Віктор](/players/tashchi_viktor.19950821.jpg) `/1995-08-21/`
 
