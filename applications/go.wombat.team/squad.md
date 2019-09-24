@@ -25,3 +25,5 @@ https://gowombat.team
 `26` [**Козаков** Денис](/players/kozakov.denys.19920824.jpg) `/1992-08-24/`
 
 `42` [**Кисiль** Роман](/players/kysil.roman.19970623.jpg) `/1997-06-23/`
+
+`77` [**Палій** Вадим](/players/palii.vadym.19980112.jpg) `/1998-01-12/`
