@@ -1,8 +1,8 @@
-#
+# SoftServe
 
 https://softserveinc.com
 
-`7`  [**Башлаєв** Юрій](/players/bashlaev.yurii.19830902.jpg) `/1983-09-02/` Candygrill
+`7`  [**Башлаєв** Юрій](/players/bashlaev.yurii.19830902.jpg) `/1983-09-02/` Candy Grill
 
 `17` [**Бовдуй** Борис](/players/bovdui.borys.19820523.jpg) `/1982-05-23/`
 
