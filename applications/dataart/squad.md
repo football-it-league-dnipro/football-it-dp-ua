@@ -8,7 +8,7 @@ https://www.dataart.com/
 
 `7` [**Кір'янов** Віталій](/players/kirianov.vitalii.19910906.jpg) `/1991-09-06/`
 
-`4` [**Ларін** Микита](/players/larin.mykyta.19930519.jpg) `/1993-05-19/`
+`2` [**Ларін** Микита](/players/larin.mykyta.19930519.jpg) `/1993-05-19/`
 
 `18` [**Мірошніченко** Олексій](/players/miroshnichenko.oleksii.19810501.jpg) `/1981-05-01/`
 
@@ -23,6 +23,8 @@ https://www.dataart.com/
 `14` [**Тихонов** Антон](/players/tykhonov.anton.19890210.jpg) `/1989-02-10/`
 
 `1` [**Ткаленко** Олександр](/players/tkalenko.oleksandr.19841117.jpg) `/1984-11-17/`
+
+`4` [**Троян** Дмитро](/players/troian.dmytro.19870210.jpg) `/1987-02-10/`
 
 `3` [**Чадович** Дмитро](/players/chadovych.dmytro.19910622.jpg) `/1991-06-22/`
 
