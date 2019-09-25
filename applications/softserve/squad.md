@@ -14,7 +14,7 @@ https://softserveinc.com
 
 `15` [**Зіборов** Максим](/players/ziborov.maksim.19940528.jpg) `/1994-05-28/`
 
-`11` [**Иваненко** Андрій](/players/ivanenko.andriy.19900415.JPG) `/1990-04-15/`
+`11` [**Иваненко** Андрій](/players/ivanenko.andriy.19900415.jpg) `/1990-04-15/`
 
 `12` [**Кулаков** Олександр](/players/kulakov.oleksandr.19880711.jpg) `/1988-07-11/`
 
@@ -32,7 +32,7 @@ https://softserveinc.com
 
 `4`  [**Филиппенко** Євген](/players/filippenko.yevgen.19900616.jpg) `/1990-06-16/`
 
-`13` [**Чурюмов** Андрій](/players/churyumov.andrii.1992.03.06.jpg)  `/1992-03-06/`
+`13` [**Чурюмов** Андрій](/players/churyumov.andrii.19920306.jpg)  `/1992-03-06/`
 
 `9`  [**Якуб** Ігор](/players/yakub.igor.19890908.jpg) `/1989-09-08/`
 
