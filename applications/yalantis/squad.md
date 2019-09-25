@@ -6,7 +6,7 @@ https://yalantis.com/
 
 `9` [**Вишинський** Михайло](/players/vyshynskiy.mykhailo.19860512.jpg) `/1986-05-12/`
 
-`2` [**Козирев** Станiслав](/players/kozyrev.stanislav.19090808.jpg) `/1990-08-08/`
+`2` [**Козирев** Станiслав](/players/kozyrev.stanislav.19900808.jpg) `/1990-08-08/`
 
 `29` [**Крижановський** Антон](/players/kryzhanovkyi.anton.19870220.jpg) `/1987-02-20/` Valtech
 
