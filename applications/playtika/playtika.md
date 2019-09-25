@@ -2,7 +2,11 @@
 
 https://www.playtika.com/
 
-`11` [**Байбарак** Дмитро](/players/baybarak.dmytro.19810501.jpg) `/1981-05-01/` Advent mobile
+https://jobs.dou.ua/companies/playtika-ua/
+
+https://www.facebook.com/playtikaua/
+
+`11` [**Байбарак** Дмитро](/players/baybarak.dmytro.19810501.jpg) `/1981-05-01/` iSKY.SOLUTIONS
 
 `7` [**Басюк** Артем](/players/basyuk.artem.19911105.jpg) `/1991-11-05/`
 
@@ -10,7 +14,7 @@ https://www.playtika.com/
 
 `8` [**Волосок** Сергій](/players/volosok.sergiy.19850923.jpg) `/1985-09-23/`
 
-`15` [**Коваленко** Іван](/players/kovalenko.ivan.19930602.jpg) `/1993-10-13/`
+`15` [**Коваленко** Іван](/players/kovalenko.ivan.19931013.jpg) `/1993-10-13/`
 
 `10` [**Когут** Ярослав](/players/kogut.yaroslav.19921013.jpg) `/1992-10-13/`
 
