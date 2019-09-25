@@ -20,7 +20,7 @@ https://www.dataart.com/
 
 `01` [**Руденко** Богдан](/players/rudenko.bohdan.19901206.jpg) `/1990-12-06/` SoftServe
 
-`14` [**Тихонов** Антон](/players/tykhonov.anton.19890210.jpg) `/1989-02-10/`
+`14` [**Тихонов** Антон](/players/tykhonov.anton.19890210.jpg) `/1989-02-10/` Fintech Band
 
 `1` [**Ткаленко** Олександр](/players/tkalenko.oleksandr.19841117.jpg) `/1984-11-17/`
 
