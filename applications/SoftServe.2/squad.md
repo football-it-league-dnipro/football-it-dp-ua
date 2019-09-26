@@ -6,6 +6,8 @@ https://jobs.dou.ua/companies/softserve/
 
 `1` [**Галяс** Юрiй](/players/halias.iurii.19890802.jpg) `/1989-08-02/` Wix
 
+`15` [**Гармаш** Павло](/players/harmash.pavlo.19911106.jpg) `/1991-11-06/`
+
 `2` [**Єрмаков** Іван](/players/yermakov.ivan.19861205.jpg) `/1986-12-05/`
 
 `3` [**Злобін** Олексій](/players/zlobin.oleksii.19910506.jpg) `/1991-05-06/`
