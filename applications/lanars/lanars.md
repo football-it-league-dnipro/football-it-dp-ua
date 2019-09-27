@@ -18,6 +18,8 @@ https://lanars.com
 
 `14` [**Різник** Владислав](/players/riznyk.vladyslav.19951028.jpg) `/1995-10-28/`
 
+`3` [**Роговенко** Олег](/players/rogovenko.oleg.19940811.jpg) `/1994-08-10/`
+
 `72` [**Саввін** Віталій](/players/savvin.vitaliy19910620.jpg) `/1991-06-20/` Pingle
 
 `11` [**Сокол** Віталій](/players/sokol.vitaliy.19950125.jpg) `/1995-01-25/`
