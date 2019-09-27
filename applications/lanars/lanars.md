@@ -12,10 +12,6 @@ https://lanars.com
 
 `18` [**Копаненко** Євген](/players/kopanenko.evgen.19900402.jpg) `/1990-04-02/`
 
-`13` [**Малюченко** Тарас](/players/maluchenko.taras.19920509.jpg) `/1992-05-09/`
-
-`3` [**Несинов** Олександр](/players/nesynov.oleksandr.19870322.jpg) `/1987-03-22/`
-
 `10` [**Подолян** Олексій](/players/podolian.oleksii.19950412.jpg) `/1995-04-12/`
 
 `7` [**Приходченко** Олександр](/players/prykhodchenko.oleksandr.19910329.jpg) `/1991-03-29/`
