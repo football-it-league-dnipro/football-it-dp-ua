@@ -4,6 +4,12 @@
 
 This is a regular competition which gathers IT companies of the city of Dnipro in one place. It takes place twice a year at the one of the most comfortable sport complex in the city. Established 2014.
 
+### Сезон
+
+[Команди](./applications/readme.md)
+
+[Результати](http://footballit.dp.ua/)
+
 ### Документація
 
 [Регламент змагань](./documents-and-regulations/competition-regulations.md)
