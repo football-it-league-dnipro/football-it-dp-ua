@@ -2,7 +2,7 @@
 
 https://jobs.dou.ua/companies/keyua/
 
-`10` [**Богданов** Андрій](/players/bogdanov.andriy.19850203.jpg) `/1985-02-03/` 
+`10` [**Богданов** Андрій](/players/bogdanov.andriy.19850203.jpg) `/1985-02-03/`
 
 `12` [**Дмитрук** Дмитро](/players/dmitruk.dmitro.19960723.jpg) `/1996-07-23/`
 
@@ -16,8 +16,8 @@ https://jobs.dou.ua/companies/keyua/
 
 `9` [**Красавін** Артем](/players/krasavin.artem.19960411.jpg) `/1996-04-11/`
 
-`4` [**Погодін** Евгеній](/players/pogodin.evgenii19960826.JPG) `/1996-08-26/` 
+`4` [**Погодін** Евгеній](/players/pogodin.evgenii19960826.JPG) `/1996-08-26/`
 
-`1` [**Троценко** Дмитро](/players/trocenko.dmitro.19830201.jpg) `/1983-02-01/` 
+`1` [**Троценко** Дмитро](/players/trocenko.dmitro.19830201.jpg) `/1983-02-01/`
 
 `3` [**Шок** Сергій](/players/shok.sergey.19891129.jpg) `/1989-11-29/`

@@ -29,6 +29,3 @@ https://www.dataart.com/
 `3` [**Чадович** Дмитро](/players/chadovych.dmytro.19910622.jpg) `/1991-06-22/`
 
 `32` [**Шустов** Андрій](/players/shustov.andrii.19850706.jpg) `/1985-07-06/`
-
-
-

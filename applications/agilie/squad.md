@@ -12,7 +12,7 @@ https://agilie.com
 
 `4` [**Кліменко** Олександр](/players/klymenko.oleksandr.19940223.jpg) `/1994-02-23/`
 
-`23` [**Кобзарев** Олександр](/players/kobzarev.oleksandr.19830411.jpg) `/1983-04-11/` Candy Grill 
+`23` [**Кобзарев** Олександр](/players/kobzarev.oleksandr.19830411.jpg) `/1983-04-11/` Candy Grill
 
 `10` [**Коваленко** Євген](/players/kovalenko.yevhen.19870519.jpg) `/1987-05-19/`
 
