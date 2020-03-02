@@ -1,6 +1,6 @@
 # Dnipro Football IT League • XII
 
-Команди, що приймають участь у змаганнях
+Команди, що беруть участь у змаганнях
 
 [Agilie](./agilie/squad.md)
 
