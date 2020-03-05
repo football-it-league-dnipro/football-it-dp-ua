@@ -4,11 +4,7 @@ https://solvve.com
 
 `18` [**Дмитренко** Роман](/players/dmytrenko.roman.19940715.jpg) `/1994-07-15/`
 
-`99` [**Єржанов** Руслан](/players/erzhanov.ruslan.19900205) `/1990-02-05/`
-
 `21` [**Іванков** Євген](/players/ivankov.eugene.19920720.jpg) `/1992-07-20/`
-
-`13` [**Ключник** Олександр](/players/kluchnyk.olexander.19890727.jpg) `/1989-07-27/`
 
 `7` [**Колеснік** Роман](/players/kolesnyk.roman.19890606.jpg) `/1989-06-06/`
 
