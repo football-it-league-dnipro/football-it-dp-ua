@@ -4,7 +4,7 @@ https://lanars.com
 
 `23` [**Березовський** Олександр](/players/berezovskyi.oleksandr.19870503.jpg) `/1987-05-03/`
 
-`99` [**Білоус** Павло](/players/bilous.pavlo.19850306.jpg) `/1985-03-06/` Usatech
+`3` [**Білоус** Павло](/players/bilous.pavlo.19850306.jpg) `/1985-03-06/` Usatech
 
 `22` [**Віжан** Олексій](/players/vizhan.oleksii.19861215.jpg) `/1986-12-15/`
 
@@ -20,8 +20,10 @@ https://lanars.com
 
 `3` [**Роговенко** Олег](/players/rogovenko.oleg.19940811.jpg) `/1994-08-10/`
 
-`72` [**Саввін** Віталій](/players/savvin.vitaliy19910620.jpg) `/1991-06-20/` Pingle
+`9` [**Кліменко** Олександр](/players/klymenko.oleksandr.19940223.jpg) `/1994-02-23/` Agilie
 
 `11` [**Сокол** Віталій](/players/sokol.vitaliy.19950125.jpg) `/1995-01-25/`
 
-`1` [**Федориненко** Данило](/players/fedorynenko.danylo.19900724.jpg) `/1990-07-24/` Noosphere
+`1` [**Федориненко** Данило](/players/fedorynenko.danylo.19900724.jpg) `/1990-07-24/`Noosphere (veteran)
+
+`12` [**Руденко** Богдан](/players/rudenko.bohdan.19901206.jpg) `/1990-12-06/` SoftServe
