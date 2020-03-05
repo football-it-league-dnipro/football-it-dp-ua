@@ -1,17 +1,27 @@
 # Dnipro Football IT League
 
-Регулярні змагання, що проходять двічі на рік (на весні та восени) за участю IT компаній міста Дніпро в одному з найкомфортабельніших спортивних комплексів. 
+Регулярні змагання, що проходять двічі на рік за участю IT компаній міста Дніпро в одному з найкомфортабельніших спортивних комплексів. Засновані у 2014 році.
 
-This is a regular competition which gathers IT companies of the city of Dnipro in one place. It takes place twice a year (spring and autumn) at the one of the most comfortable sport complex in the city.
+This is a regular competition which gathers IT companies of the city of Dnipro in one place. It takes place twice a year at the one of the most comfortable sport complex in the city. Established 2014.
 
-Турнір заснований у 2014 році.
+### Сезон
 
-Est. 2014
+[Команди](./applications/readme.md)
 
-#
+[Результати](http://footballit.dp.ua/)
 
-## Корисна інформація
+### Документація
 
-[Діючий Регламент змагань](./documents-and-regulations/competition-regulations.md)
+[Регламент змагань](./documents-and-regulations/competition-regulations.md)
+
+[Положення про Чемпіонат](./documents-and-regulations/championship-conditions.md)
+
+[Положення про першість Другої Ліги](./documents-and-regulations/second-league-conditions.md)
+
+[Положення про Золотий Матч](./documents-and-regulations/golden-match-conditions.md)
+
+[Додаток #1](./documents-and-regulations/legionary-expenses-attachment.md)
+
+### Корисна інформація
 
 [Як зареєструвати команду](./applications/guide.md)
