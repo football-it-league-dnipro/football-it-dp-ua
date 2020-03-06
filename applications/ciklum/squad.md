@@ -14,7 +14,7 @@ https://jobs.dou.ua/companies/ciklum/
 
 `1` [**Кіпра** Олексій](/players/kipra.oleksii.19910420.jpg) `/1991-04-20/`
 
-'41' [**Кочев** Антон](/players/kochev.anton.19850915.jpg) '/1985-09-15/' Leads Market (veteran)
+'41' [**Кочєв** Антон](/players/kochev.anton.19850915.jpg) '/1985-09-15/' LeadsMarket (veteran)
 
 `5` [**Кузякін** Олексій](/players/kuzyakin.oleksii.19900714.jpg) `/1990-07-14/`
 
