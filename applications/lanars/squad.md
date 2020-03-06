@@ -8,6 +8,8 @@ https://lanars.com
 
 `22` [**Віжан** Олексій](/players/vizhan.oleksii.19861215.jpg) `/1986-12-15/`
 
+`9` [**Кліменко** Олександр](/players/klymenko.oleksandr.19940223.jpg) `/1994-02-23/` Agilie
+
 `8` [**Ковтун** Владислав](/players/kovtun.vladyslav.19920908.jpg) `/1992-09-08/`
 
 `18` [**Копаненко** Євген](/players/kopanenko.evgen.19900402.jpg) `/1990-04-02/`
@@ -20,10 +22,8 @@ https://lanars.com
 
 `3` [**Роговенко** Олег](/players/rogovenko.oleg.19940811.jpg) `/1994-08-10/`
 
-`9` [**Кліменко** Олександр](/players/klymenko.oleksandr.19940223.jpg) `/1994-02-23/` Agilie
+`12` [**Руденко** Богдан](/players/rudenko.bohdan.19901206.jpg) `/1990-12-06/` SoftServe
 
 `11` [**Сокол** Віталій](/players/sokol.vitaliy.19950125.jpg) `/1995-01-25/`
 
 `1` [**Федориненко** Данило](/players/fedorynenko.danylo.19900724.jpg) `/1990-07-24/`Noosphere (veteran)
-
-`12` [**Руденко** Богдан](/players/rudenko.bohdan.19901206.jpg) `/1990-12-06/` SoftServe
