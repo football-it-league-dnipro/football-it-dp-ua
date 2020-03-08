@@ -22,7 +22,7 @@ https://noosphereglobal.com/
 
 `3` [**Пiкуль** Андрiй](/players/pikul.andrii.19900414.jpg) `/1990-04-14/`
 
-`5` [**Поддубний** Сергій](/players/poddubnii.sergii.19880101.jpg) `/1988-01-01/`
+`5` [**Поддубний** Сергій](/players/poddubnii.sergii.19871031.jpg) `/1987-10-31/`
 
 `99` [**Полтавець** Ярослав](/players/poltavets.yaroslav.19871218.jpg) `/1987-12-18/` StoSec (veteran)
 
