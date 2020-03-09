@@ -10,7 +10,7 @@ https://www.dataart.com/
 
 `13` [**Ларін** Микита](/players/larin.mykyta.19930519.jpg) `/1993-05-19/`
 
-`4` [**Лесной** Владислав](/players/lesnoy.valdyslav.19850706.jpg) `/1985-07-06/`
+`4` [**Лесной** Владислав](/players/lesnoy.vladyslav.19940425.jpg) `/1994-04-25/`
 
 `7` [**Марков** Євген](/players/markov.yevgen.19860518.jpg) `/1987-02-10/`
 
