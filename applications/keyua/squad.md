@@ -18,8 +18,8 @@ https://jobs.dou.ua/companies/keyua/
 
 `9` [**Довганенко** Михайло](/players/dovhanenko.mykhailo.19950330.jpg) `/1995-03-30/`
 
-`27` [**Третьяк** Олександр](/players/tretiak.oleksandr.19911130.jpg) `/1991-11-30/`
+`27` [**Третьяк** Олександр](/players/tretiak.oleksandr.19911130.jpg) `/1991-11-30/` EGO Creative Innovations
 
-`12` [**Кухар** Сергій](/players/kukhar.serhii.19910125.jpg) `/1991-01-25/`
+`12` [**Кухар** Сергій](/players/kukhar.serhii.19910125.jpg) `/1991-01-25/` Apriorit
 
-`3` [**Грудєв** Павло](/players/hrudiev.pavlo.19840831.jpg) `/1984-08-31/`
+`3` [**Грудєв** Павло](/players/hrudiev.pavlo.19840831.jpg) `/1984-08-31/` EPAM
