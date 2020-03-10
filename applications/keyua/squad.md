@@ -2,8 +2,6 @@
 
 https://jobs.dou.ua/companies/keyua/
 
-`3` [**Грудєв** Павло](/players/grudev.pavlo.19840831.jpg) `/1984-08-31/` EPAM
-
 `18` [**Дубіна** Микита](/players/dubina.nikita.19980114.jpg) `/1998-01-14/`
 
 `9` [**Довганенко** Михайло](/players/dovhanenko.mykhailo.19950330.jpg) `/1995-03-30/`
