@@ -1,5 +1,7 @@
 # Lanars
 
+2020/03
+
 https://lanars.com
 
 `23` [**Березовський** Олександр](/players/berezovskyi.oleksandr.19870503.jpg) `/1987-05-03/`
@@ -26,4 +28,4 @@ https://lanars.com
 
 `11` [**Сокол** Віталій](/players/sokol.vitaliy.19950125.jpg) `/1995-01-25/`
 
-`1` [**Федориненко** Данило](/players/fedorynenko.danylo.19900724.jpg) `/1990-07-24/`Noosphere (veteran)
+`1` [**Федориненко** Данило](/players/fedorynenko.danylo.19900724.jpg) `/1990-07-24/` Noosphere (veteran)
