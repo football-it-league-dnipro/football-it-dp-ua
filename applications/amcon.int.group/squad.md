@@ -1,28 +1,28 @@
-# Amcon Int. Group
+# Amcon 
 
 http://amconglobal.com/
+
 http://www.amconsoft.com/
 
 https://jobs.dou.ua/companies/amcon-soft/
 
-`12` [**Банщиков** Сергій](/players/banshchykov.serhii.19910922.jpg) `/1991-09-22/` Oracle
 
 `5` [**Бережний** Дмитро](/players/berezhnyi.dmytro.19910405.jpg) `/1991-04-05/`
 
-`6` [**Бережник** Олександр](/players/berezhnyk.oleksandr.19860314.jpg) `/1986-03-14/`
+`34` [**Бережник** Олександр](/players/berezhnyk.oleksandr.19860314.jpg) `/1986-03-14/`
+
+`14` [**Білоус** Віталій](/players/bilous.vitaliy.19830711.jpg) `/1983-07-11/`
 
 `7` [**Борисевич** Іван](/players/borysevych.ivan.19851118.jpg) `/1985-11-18/`
 
-`10` [**Брез** Володимир](/players/brez.volodymyr.19840415.jpg) `/1984-04-15/`
+`29` [**Гоцко** Станіслав](/players/gotsko.stanislav.19930528.jpg) `/1993-05-28/` WizardsDev
 
-`13` [**Гримало** Богдан](/players/hrymalo.bohdan.19910110.jpg) `/1991-01-10/` RubyGarage
+`23` [**Кобзарев** Олександр](/players/kobzarev.oleksandr.19830411.jpg) `/1983-04-11/` Candy Grill
 
-`99` [**Жабчик** Віталій](/players/zhabchyk.vitaly.19900703.jpg) `/1990-07-03/`
-
-`14` [**Іванов** Микита](/players/ivanov.mykyta.19960622.jpg) `/1996-06-22/`
+`10` [**Коваленко** Євген](/players/kovalenko.yevhen.19870519.jpg) `/1987-05-19/` Agilie
 
 `17` [**Кодрін** Антон](/players/kodrin.anton.19890525.jpg) `/1989-05-25/` 
 
 `1` [**Кравченко** Констянтин](/players/kravchenko.konstiantyn.19891007.jpg) `/1989-10-07/`
 
-`8` [**Олійников** Євген](/players/oliynykov.yevhen.19890221.jpg) `/1989-02-21/` SoftServe
+`8` [**Олійников** Євген](/players/oliynykov.yevhen.19890221.jpg) `/1989-02-21/` SoftServe (ветеран)
