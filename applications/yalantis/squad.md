@@ -22,7 +22,7 @@ https://yalantis.com/
 
 `8` [**Рвачов** Iгор](/players/rvachov.igor.19910901.jpg) `/1991-09-01/`
 
-`22` [**Нiколаенко** Богдан](/players/nikolaienko.bogdan.19890501.jpg) `/1989-05-01/` Timelineapp Tech Ltd
+`22` [**Нiколаенко** Богдан](/players/nikolaienko.bogdan.19890501.JPG) `/1989-05-01/` Timelineapp Tech Ltd
 
 `23` [**Родной** Михайло](/players/rodnoy.mykhailo.19910111.jpg) `/1991-01-11/` Ветеран
 
