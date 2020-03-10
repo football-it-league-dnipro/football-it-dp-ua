@@ -25,8 +25,8 @@ https://jobs.dou.ua/companies/amcon-soft/
 
 `6` [**Пономаренко** Андрій](/players/ponomarenko.andrii.19931230.jpg) `/1993-12-30/` PrivatBank
 
-'3' [**Сальник** Богдан](/players/salnyk.bogdan.19960622.jpg)  `/1996-06-22/`
+`3` [**Сальник** Богдан](/players/salnyk.bogdan.19960622.jpg)  `/1996-06-22/`
 
-'1' [**Жабчик** Віталій](/players/zhabchyk.vitaly.19900703.jpg)  `/1990-07-03/`
+`1` [**Жабчик** Віталій](/players/zhabchyk.vitaly.19900703.jpg)  `/1990-07-03/`
 
-'9' [**Рамазанов** Артем](/players/ramazanov.artem.19860412.jpg)  `/1986-04-12/`
+`9` [**Рамазанов** Артем](/players/ramazanov.artem.19860412.jpg)  `/1986-04-12/`
