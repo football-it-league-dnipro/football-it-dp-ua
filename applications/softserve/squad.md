@@ -2,6 +2,8 @@
 
 https://softserveinc.com
 
+https://jobs.dou.ua/companies/softserve/
+
 `7` [**Башлаєв** Юрій](/players/bashlaev.yurii.19830902.jpg) `/1983-09-02/` Candy Grill
 
 `17` [**Бовдуй** Борис](/players/bovdui.borys.19820523.jpg) `/1982-05-23/`
@@ -9,6 +11,8 @@ https://softserveinc.com
 `8` [**Гаврилюк** Олексій](/players/gavriluk.oleksii.19850608.jpg) `/1985-06-08/`
 
 `10` [**Гасанов** Алі](/players/gasanov.ali.19960618.jpg) `/1996-06-18/`
+
+`5` [**Грудєв** Павло](/players/grudev.pavlo.19840831.jpg) `/1984-08-31/` Epam
 
 `15` [**Зіборов** Максим](/players/ziborov.maksim.19940528.jpg) `/1994-05-28/`
 
