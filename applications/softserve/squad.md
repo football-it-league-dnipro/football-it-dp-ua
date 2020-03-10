@@ -12,8 +12,6 @@ https://softserveinc.com
 
 `10` [**Гасанов** Алі](/players/gasanov.ali.19960618.jpg) `/1996-06-18/`
 
-`5` [**Грудєв** Павло](/players/grudev.pavlo.19840831.jpg) `/1984-08-31/` Epam
-
 `15` [**Зіборов** Максим](/players/ziborov.maksim.19940528.jpg) `/1994-05-28/`
 
 `11` [**Іваненко** Андрій](/players/ivanenko.andrii.19900415.JPG) `/1990-04-15/`
