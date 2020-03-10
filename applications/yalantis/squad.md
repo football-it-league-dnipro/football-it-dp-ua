@@ -8,11 +8,11 @@ https://yalantis.com/
 
 `2` [**Козирев** Станiслав](/players/kozyrev.stanislav.19900808.jpg) `/1990-08-08/`
 
-`29` [**Крижановський** Антон](/players/kryzhanovkyi.anton.19870220.jpg) `/1987-02-20/` Valtech
+`29` [**Лавриненко** Максим](/players/lavrynenko.maksim.19930703.jpeg) `/1993-07-03/`
 
 `6` [**Линник** Владислав](/players/lynnik.vladislav.19931202.jpg) `/1993-12-02/`
 
-`4` [**Литвин** Антон](/players/lytvyn.anton.19910403.jpg) `/1991-04-03/`
+`4` [**Череватенко** Денис](/players/cherevatenko.denys.19920326.jpg) `/1992-03-26/` Mind Studios
 
 `7` [**Литвинчук** Олександр](/players/lytvynchuk.aleksandr.19960104.jpg) `/1996-01-04/`
 
@@ -22,9 +22,9 @@ https://yalantis.com/
 
 `8` [**Рвачов** Iгор](/players/rvachov.igor.19910901.jpg) `/1991-09-01/`
 
-`22` [**Решетняк** Костянтин](/players/reshetnyak.kostiantin.19870617.jpg) `/1987-06-17/`
+`22` [**Нiколаенко** Богдан](/players/nilolaienko.bogdan.19890501.jpg) `/1989-05-01/` Timelineapp Tech Ltd
 
-`23` [**Родной** Михайло](/players/rodnoy.mykhailo.19910111.jpg) `/1991-01-11/` Polyarix
+`23` [**Родной** Михайло](/players/rodnoy.mykhailo.19910111.jpg) `/1991-01-11/` Ветеран
 
 `28` [**Супрун** Микола](/players/suprun.mykola.19891221.jpg) `/1989-12-21/` Daxx
 
