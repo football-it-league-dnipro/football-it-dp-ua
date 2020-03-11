@@ -22,7 +22,7 @@ https://yalantis.com/
 
 `8` [**Рвачов** Iгор](/players/rvachov.igor.19910901.jpg) `/1991-09-01/`
 
-`23` [**Родной** Михайло](/players/rodnoy.mykhailo.19910111.jpg) `/1991-01-11/` Ветеран
+`23` [**Родной** Михайло](/players/rodnoy.mykhailo.19910111.jpg) `/1991-01-11/` Polyarix (Ветеран)
 
 `28` [**Супрун** Микола](/players/suprun.mykola.19891221.jpg) `/1989-12-21/` Daxx
 
