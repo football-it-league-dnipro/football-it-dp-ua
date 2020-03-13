@@ -10,6 +10,8 @@ https://lanars.com
 
 `22` [**Віжан** Олексій](/players/vizhan.oleksii.19861215.jpg) `/1986-12-15/`
 
+`99` [**Засенко** Андрій](/players/zasenko.andrii.19830618.jpg) `/1983-06-18/`
+
 `9` [**Кліменко** Олександр](/players/klymenko.oleksandr.19940223.jpg) `/1994-02-23/` Agilie
 
 `8` [**Ковтун** Владислав](/players/kovtun.vladyslav.19920908.jpg) `/1992-09-08/`
