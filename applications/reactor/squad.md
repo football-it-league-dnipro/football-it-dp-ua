@@ -16,8 +16,6 @@ https://www.reactor.com.ua/
 
 `2` [**Павлушонок** Роман](/players/pavlushonok.roman.19890527.jpg) `/1989-05-27/`
 
-`4` [**Омелян** Микола](/players/omelian.mykola.19951113.jpg) `/1995-11-13/`
-
 `22` [**Слободян** Дмитро](/players/slobodian.dmytro.19880607.jpg) `/1988-06-07/`
 
 `8` [**Степаненко** Андрій](/players/stepanenko.andrii.19840621.jpg) `/1984-06-21/`
