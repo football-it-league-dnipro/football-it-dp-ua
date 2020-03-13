@@ -2,7 +2,11 @@
 
 https://www.reactor.com.ua/
 
+`7` [**Букій** Данило](/players/bukii.danylo.19941111.jpg) `/1994-11-11/`
+
 `99` [**Євдокимов** Михайло](/players/yevdokymov.mykhailo.19940731.jpg) `/1994-07-31/`
+
+`3` [**Камєнєв** Владислав](/players/kamieniev.vladyslav.19960906.jpg) `/1996-09-06/`
 
 `23` [**Куранов** Олексій](/players/kuranov.oleksii.19871216.jpg) `/1987-12-16/`
 
@@ -15,6 +19,8 @@ https://www.reactor.com.ua/
 `22` [**Слободян** Дмитро](/players/slobodian.dmytro.19880607.jpg) `/1988-06-07/`
 
 `8` [**Степаненко** Андрій](/players/stepanenko.andrii.19840621.jpg) `/1984-06-21/`
+
+`5` [**Степченков** Олексій](/players/stepchenkov.oleksii.19920625.jpg) `/1992-06-25/`
 
 `9` [**Стасюк** Сергій](/players/stasiuk.serhii.19940719.jpg) `/1994-07-19/`
 
